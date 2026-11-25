@@ -1,7 +1,7 @@
 {
  "evento": "SAENG · AAIFEC Biônicos",
  "aviso": "Os nomes dos times de vôlei são provisórios até a inscrição chegar.",
- "upd": "2026-11-25T17:10:35.089Z",
+ "upd": "2026-11-25T17:15:03.329Z",
  "mods": [
   {
    "id": "futsal",
@@ -75,12 +75,12 @@
    "uni": "partidas",
    "info": "",
    "part": [
-    "Augusto M. Belarmino e Guilherme Lang",
-    "Luan e Kauan",
     "Felipe Lopes e Larissa Rademaker",
+    "Luan e Kauan",
     "Igor B. Müller e Tiago A. Pruess",
-    "Gustavo Langa e Milene Soares de Freitas",
-    "Yuri Kauã Schwartz Melo e Fabricio Siegel"
+    "Augusto M. Belarmino e Guilherme Lang",
+    "Yuri Kauã Schwartz Melo e Fabricio Siegel",
+    "Gustavo Langa e Milene Soares de Freitas"
    ],
    "res": {}
   },
