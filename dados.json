@@ -1,0 +1,124 @@
+{
+ "evento": "SAENG · AAIFEC Biônicos",
+ "aviso": "Os nomes dos times de vôlei são provisórios até a inscrição chegar.",
+ "upd": null,
+ "mods": [
+  {
+   "id": "futsal",
+   "nome": "Futsal",
+   "tag": "Futsal",
+   "sub": "Times",
+   "tipo": "liga",
+   "icon": "bola",
+   "uni": "gols",
+   "info": "",
+   "part": [
+    "Gola Alta FC",
+    "Trombudo FC",
+    "ECO 26",
+    "Engenheiros do Hawai",
+    "VELHACOS IFC"
+   ],
+   "res": {},
+   "ciclo": true,
+   "final": true
+  },
+  {
+   "id": "tenis-individual",
+   "nome": "Tênis de mesa",
+   "tag": "Tênis individual",
+   "sub": "Individual",
+   "tipo": "mata",
+   "icon": "raquete",
+   "uni": "sets",
+   "info": "",
+   "part": [
+    "Henrique Schreiner",
+    "Lucas Eduardo Capareli Liebl",
+    "Iago Luis Maes",
+    "Lucas Artner",
+    "Cherles Otto",
+    "Guilherme",
+    "Nelson Scarin",
+    "Aduyar Rafael V Rojas Alfonzo",
+    "Jonatas dos Santos"
+   ],
+   "res": {},
+   "sets": 3,
+   "pts": 11
+  },
+  {
+   "id": "tenis-duplas",
+   "nome": "Tênis de mesa",
+   "tag": "Tênis duplas",
+   "sub": "Duplas",
+   "tipo": "liga",
+   "icon": "raquete",
+   "uni": "sets",
+   "info": "",
+   "part": [
+    "Iago Maes e Lucas Capareli",
+    "Nelson Scarin e Jonatas dos Santos",
+    "Guilherme Augusto e Aduyar"
+   ],
+   "res": {},
+   "sets": 3,
+   "pts": 11
+  },
+  {
+   "id": "truco",
+   "nome": "Truco",
+   "tag": "Truco",
+   "sub": "Duplas",
+   "tipo": "mata",
+   "icon": "cartas",
+   "uni": "partidas",
+   "info": "",
+   "part": [
+    "Augusto M. Belarmino e Guilherme Lang",
+    "Luan e Kauan",
+    "Felipe Lopes e Larissa Rademaker",
+    "Igor B. Müller e Tiago A. Pruess",
+    "Gustavo Langa e Milene Soares de Freitas",
+    "Yuri Kauã Schwartz Melo e Fabricio Siegel"
+   ],
+   "res": {}
+  },
+  {
+   "id": "mk11",
+   "nome": "Mortal Kombat 11",
+   "tag": "MK11",
+   "sub": "Individual",
+   "tipo": "mata",
+   "icon": "controle",
+   "uni": "vitórias",
+   "info": "",
+   "part": [
+    "Rebecca Ashley Tavares Bicca",
+    "Yuri Kauã Schwartz Melo",
+    "Tomas Drechsler Kitzberger",
+    "Matheus Rodrigues Silva",
+    "Felipe Lopes",
+    "Cremilson Júnior",
+    "Larissa Gabriel",
+    "Any Carolini Alves Zavaglio"
+   ],
+   "res": {}
+  },
+  {
+   "id": "volei",
+   "nome": "Vôlei",
+   "tag": "Vôlei",
+   "sub": "Times",
+   "tipo": "mata",
+   "icon": "volei",
+   "uni": "sets",
+   "info": "",
+   "part": [
+    "Time 1",
+    "Time 2"
+   ],
+   "res": {}
+  }
+ ]
+}
