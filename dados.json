@@ -1,7 +1,7 @@
 {
  "evento": "SAENG · AAIFEC Biônicos",
  "aviso": "Os nomes dos times de vôlei são provisórios até a inscrição chegar.",
- "upd": "2026-11-25T17:15:03.329Z",
+ "upd": "2026-11-25T17:28:16.800Z",
  "mods": [
   {
    "id": "futsal",
@@ -94,16 +94,23 @@
    "uni": "vitórias",
    "info": "",
    "part": [
-    "Rebecca Ashley Tavares Bicca",
-    "Yuri Kauã Schwartz Melo",
-    "Tomas Drechsler Kitzberger",
+    "Any Carolini Alves Zavaglio",
     "Matheus Rodrigues Silva",
-    "Felipe Lopes",
-    "Cremilson Júnior",
     "Larissa Gabriel",
-    "Any Carolini Alves Zavaglio"
+    "Rebecca Ashley Tavares Bicca",
+    "Cremilson Júnior",
+    "Felipe Lopes",
+    "Yuri Kauã Schwartz Melo",
+    "Tomas Drechsler Kitzberger"
    ],
-   "res": {}
+   "res": {
+    "0-2": {
+     "a": "Cremilson Júnior",
+     "b": "Yuri Kauã Schwartz Melo",
+     "sa": null,
+     "sb": null
+    }
+   }
   },
   {
    "id": "volei",
